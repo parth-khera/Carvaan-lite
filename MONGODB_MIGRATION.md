@@ -76,7 +76,7 @@ npm run dev
 4. Get connection string
 5. Add to `.env`:
    ```
-   MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/carvaan-connect
+   MONGODB_URI=
    ```
 
 ---
@@ -109,7 +109,7 @@ MONGODB_URI=mongodb://localhost:27017/carvaan-connect
 
 Or for Atlas:
 ```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/carvaan-connect
+MONGODB_URI=
 ```
 
 ---
