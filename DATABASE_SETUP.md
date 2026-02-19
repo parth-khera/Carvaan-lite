@@ -286,7 +286,7 @@ mongorestore --db carvaan-connect ./backup/carvaan-connect
    - Copy string
 5. **Update .env**
    ```
-   MONGODB_URI=mongodb+srv://carvaan-admin:password@cluster.mongodb.net/carvaan-connect
+   MONGODB_URI=
    ```
 
 ---
